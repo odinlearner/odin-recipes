@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: blanchedalmond;
+    max-width: 920px;
+    color: hsl(345, 60%, 7%);
+}
+
+h1, h2 {
+    text-align: center;
+    font-family: 'Times New Roman', serif;
+    /* color: rgb(137, 216, 168); */
+    color: hsl(346, 100%, 21%);
+    background-color: hsl(36, 100%, 80%);
+    line-height: 3em;
+}
+
+ul li, ul li:visited {
+    line-height: 1.5em;
+}
+
+ol li {
+    margin-top: 1em;
+}
+
+img {
+    width: 100%;
+    height: auto;
+}
